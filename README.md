@@ -1,5 +1,5 @@
 # Darknet-Link
-# Tor link list 2022 2023
+# Tor link list 2022/2023
 
 :warning: The following links work only in Tor Browser. Download it from: https://www.torproject.org/download/
 
