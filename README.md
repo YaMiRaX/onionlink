@@ -10,15 +10,11 @@
 | Market | URL |
 | --- | --- |
 
-| EUPHORIA | [http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion) |
-| ASAP | [asap2u4pvplnkzl7ecle45wajojnftja45wvovl3jrvhangeyq67ziid.onion](http://asap2u4pvplnkzl7ecle45wajojnftja45wvovl3jrvhangeyq67ziid.onion) |
+| Euphoria | [http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion) |
 | Apple World | [olknlw3zybrtfonomv72prkx3zfjxq5vihpw7mzhmu5l3srtdw5btfqd.onion](http://olknlw3zybrtfonomv72prkx3zfjxq5vihpw7mzhmu5l3srtdw5btfqd.onion) |
-| Aurora | [aurora7t7en7racqbytspft6myxds25hnczjk56tvqev2bziir74t4yd.onion](http://aurora7t7en7racqbytspft6myxds25hnczjk56tvqev2bziir74t4yd.onion) |
 | Buy Real Money | [buyreal2xipzjhjfhyztle35dknfexgqrpq4dmzvkc575kzi3vr6bmid.onion](http://buyreal2xipzjhjfhyztle35dknfexgqrpq4dmzvkc575kzi3vr6bmid.onion) |
 | Dark0de | [darkoddrkj3gqz7ke7nyjfkh7o72hlvr44uz5zl2xrapna4tribuorqd.onion](http://darkoddrkj3gqz7ke7nyjfkh7o72hlvr44uz5zl2xrapna4tribuorqd.onion) |
-| DarkBay | [darkbayx7a4sosoo4hqvoljqelgkusjlrqmt237ls6hndbplmel55oad.onion](http://darkbayx7a4sosoo4hqvoljqelgkusjlrqmt237ls6hndbplmel55oad.onion) |
 | DarkFox | [57d5j6hfzfpsfev6c7f5ltney5xahudevvttfmw4lrtkt42iqdrkxmqd.onion](http://57d5j6hfzfpsfev6c7f5ltney5xahudevvttfmw4lrtkt42iqdrkxmqd.onion) |
-| Drugs Empire | [drugsednqhasbyoyg2oekzbnllbujro54zrogqbf3p6e7qflxti5eeqd.onion](http://drugsednqhasbyoyg2oekzbnllbujro54zrogqbf3p6e7qflxti5eeqd.onion) |
 | Horizon | [wfhk7qy6ycihylvls7xrmlyp3elin3k6ezyee4ovp3oj2wudrhmhgwid.onion](http://wfhk7qy6ycihylvls7xrmlyp3elin3k6ezyee4ovp3oj2wudrhmhgwid.onion) |
 | Imperial | [shop6bpuax4uk53slpyt56bhl43f2cefpcejwyrbtvcfugujldt3eyqd.onion](http://shop6bpuax4uk53slpyt56bhl43f2cefpcejwyrbtvcfugujldt3eyqd.onion) |
 | PayPal World | [h56izbbvplxoedu7rnqyzgqkkxrriqhoq6kl4g3xx2mjwauxdpyuhlqd.onion](http://h56izbbvplxoedu7rnqyzgqkkxrriqhoq6kl4g3xx2mjwauxdpyuhlqd.onion) |
@@ -27,7 +23,6 @@
 | Tor Guns | [gunsiqvaicyzyq7xqm2c3xshl6pjegtxjf3m3ldms2fo52lqvrmvbyyd.onion](http://gunsiqvaicyzyq7xqm2c3xshl6pjegtxjf3m3ldms2fo52lqvrmvbyyd.onion) |
 | TorBuy | [torbuyjiwzgtnmieg62urzu3mfjzv35dt4ghpal3qkugzrq74urt45yd.onion](http://torbuyjiwzgtnmieg62urzu3mfjzv35dt4ghpal3qkugzrq74urt45yd.onion) |
 | Vice City | [vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion](http://vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion) |
-| WhiteHouse | [76p5k6gw25l5jpy7ombo2m7gt4zppowbz47sizvlzkigvnyhhc26znyd.onion](http://76p5k6gw25l5jpy7ombo2m7gt4zppowbz47sizvlzkigvnyhhc26znyd.onion) |
 
 | Catalogue | URL |
 | --- | --- |
