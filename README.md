@@ -10,18 +10,13 @@
 | Market | URL |
 | --- | --- |
 
-[http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion) | Euphoria |
-| Buy Real Money | [buyreal2xipzjhjfhyztle35dknfexgqrpq4dmzvkc575kzi3vr6bmid.onion](http://buyreal2xipzjhjfhyztle35dknfexgqrpq4dmzvkc575kzi3vr6bmid.onion) |
-| Dark0de | [darkoddrkj3gqz7ke7nyjfkh7o72hlvr44uz5zl2xrapna4tribuorqd.onion](http://darkoddrkj3gqz7ke7nyjfkh7o72hlvr44uz5zl2xrapna4tribuorqd.onion) |
-| DarkFox | [57d5j6hfzfpsfev6c7f5ltney5xahudevvttfmw4lrtkt42iqdrkxmqd.onion](http://57d5j6hfzfpsfev6c7f5ltney5xahudevvttfmw4lrtkt42iqdrkxmqd.onion) |
-| Horizon | [wfhk7qy6ycihylvls7xrmlyp3elin3k6ezyee4ovp3oj2wudrhmhgwid.onion](http://wfhk7qy6ycihylvls7xrmlyp3elin3k6ezyee4ovp3oj2wudrhmhgwid.onion) |
-| Imperial | [shop6bpuax4uk53slpyt56bhl43f2cefpcejwyrbtvcfugujldt3eyqd.onion](http://shop6bpuax4uk53slpyt56bhl43f2cefpcejwyrbtvcfugujldt3eyqd.onion) |
-| PayPal World | [h56izbbvplxoedu7rnqyzgqkkxrriqhoq6kl4g3xx2mjwauxdpyuhlqd.onion](http://h56izbbvplxoedu7rnqyzgqkkxrriqhoq6kl4g3xx2mjwauxdpyuhlqd.onion) |
-| ToRReZ | [yxuy5oau7nugw4kpb4lclrqdbixp3wvc4iuiad23ebyp2q3gx7rtrgqd.onion](http://yxuy5oau7nugw4kpb4lclrqdbixp3wvc4iuiad23ebyp2q3gx7rtrgqd.onion) |
-| Top Money | [money76mmbh7dnuq6en3b6d7hmvm4fuolkser2ui7u46ib2utrjnw4ad.onion](http://money76mmbh7dnuq6en3b6d7hmvm4fuolkser2ui7u46ib2utrjnw4ad.onion) |
-| Tor Guns | [gunsiqvaicyzyq7xqm2c3xshl6pjegtxjf3m3ldms2fo52lqvrmvbyyd.onion](http://gunsiqvaicyzyq7xqm2c3xshl6pjegtxjf3m3ldms2fo52lqvrmvbyyd.onion) |
-| TorBuy | [torbuyjiwzgtnmieg62urzu3mfjzv35dt4ghpal3qkugzrq74urt45yd.onion](http://torbuyjiwzgtnmieg62urzu3mfjzv35dt4ghpal3qkugzrq74urt45yd.onion) |
-| Vice City | [vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion](http://vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion) |
+[euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion) | Euphoria |
+[buyreal2xipzjhjfhyztle35dknfexgqrpq4dmzvkc575kzi3vr6bmid.onion](http://buyreal2xipzjhjfhyztle35dknfexgqrpq4dmzvkc575kzi3vr6bmid.onion) | Buy Real Money | 
+[darkoddrkj3gqz7ke7nyjfkh7o72hlvr44uz5zl2xrapna4tribuorqd.onion](http://darkoddrkj3gqz7ke7nyjfkh7o72hlvr44uz5zl2xrapna4tribuorqd.onion) | Dark0de | 
+[57d5j6hfzfpsfev6c7f5ltney5xahudevvttfmw4lrtkt42iqdrkxmqd.onion](http://57d5j6hfzfpsfev6c7f5ltney5xahudevvttfmw4lrtkt42iqdrkxmqd.onion) | DarkFox | 
+[wfhk7qy6ycihylvls7xrmlyp3elin3k6ezyee4ovp3oj2wudrhmhgwid.onion](http://wfhk7qy6ycihylvls7xrmlyp3elin3k6ezyee4ovp3oj2wudrhmhgwid.onion) | Horizon | 
+[shop6bpuax4uk53slpyt56bhl43f2cefpcejwyrbtvcfugujldt3eyqd.onion](http://shop6bpuax4uk53slpyt56bhl43f2cefpcejwyrbtvcfugujldt3eyqd.onion) | Imperial | 
+
 
 | Catalogue | URL |
 | --- | --- |
