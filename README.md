@@ -10,11 +10,7 @@
 | Market | URL |
 | --- | --- |
 
-| [http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion) | Euphoria |
-
-
-
-| Apple World | [olknlw3zybrtfonomv72prkx3zfjxq5vihpw7mzhmu5l3srtdw5btfqd.onion](http://olknlw3zybrtfonomv72prkx3zfjxq5vihpw7mzhmu5l3srtdw5btfqd.onion) |
+[http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion) | Euphoria |
 | Buy Real Money | [buyreal2xipzjhjfhyztle35dknfexgqrpq4dmzvkc575kzi3vr6bmid.onion](http://buyreal2xipzjhjfhyztle35dknfexgqrpq4dmzvkc575kzi3vr6bmid.onion) |
 | Dark0de | [darkoddrkj3gqz7ke7nyjfkh7o72hlvr44uz5zl2xrapna4tribuorqd.onion](http://darkoddrkj3gqz7ke7nyjfkh7o72hlvr44uz5zl2xrapna4tribuorqd.onion) |
 | DarkFox | [57d5j6hfzfpsfev6c7f5ltney5xahudevvttfmw4lrtkt42iqdrkxmqd.onion](http://57d5j6hfzfpsfev6c7f5ltney5xahudevvttfmw4lrtkt42iqdrkxmqd.onion) |
