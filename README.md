@@ -5,7 +5,7 @@
 
 ## Catalogues
 
-## Markets 100% Work and not scam 
+## Markets 100% Work!
 
 | Market | URL |
 | --- | --- |
