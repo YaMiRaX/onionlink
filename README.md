@@ -188,8 +188,3 @@ In early 2000s, Roger Dingledine (MIT graduate) with Paul Syverson began working
 Tor was oficially deployed in October 2002 and its source code was released under a free and open software license. In December 2006 computer scientists Roger Dingledine, Nick Mathewson and five others founded The Tor Project research-education nonprofit organization that is responsible for maintaining the software.
 
 Tor is supported by US government, many NGOs, private foundations, research institutions, private companies and over 20,000 personal donations from people from around the World.
-
-# Source
-
-https://medium.com/@darknethome/how-to-enter-darknet-in-2021-b55532cdc3f9
-
