@@ -5,13 +5,6 @@
 
 ## Catalogues
 
-## Markets 100% Work!
-
-| Market | URL |
-| --- | --- |
-| Euphoria | [euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion) | 
-
-
 
 | Catalogue | URL |
 | --- | --- |
@@ -23,6 +16,12 @@
 | Nexus | [nexusxg6rr5e2ue6gdjo6oassw36lsx5cx6y3r5ojneo53kynv3rqgyd.onion](http://nexusxg6rr5e2ue6gdjo6oassw36lsx5cx6y3r5ojneo53kynv3rqgyd.onion) |
 | Tor Node | [tornode3tnrtzgqwd3vmxdumucddqfd6zk7icu4wzdwxo5c3zn2xqfqd.onion](http://tornode3tnrtzgqwd3vmxdumucddqfd6zk7icu4wzdwxo5c3zn2xqfqd.onion) |
 | Tor Links | [torlinkv7cft5zhegrokjrxj2st4hcimgidaxdmcmdpcrnwfxrr2zxqd.onion](http://torlinkv7cft5zhegrokjrxj2st4hcimgidaxdmcmdpcrnwfxrr2zxqd.onion) |
+
+## Markets 100% Work!
+
+| Market | URL |
+| --- | --- |
+| Euphoria | [euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion) | 
 
 ## Search engines
 
