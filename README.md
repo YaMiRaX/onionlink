@@ -23,7 +23,7 @@
 | --- | --- |
 | Euphoria | [euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion) | 
 
-## Search enginess
+## Search engines
 
 | Search Engine | URL |
 | --- | --- |
