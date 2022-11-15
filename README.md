@@ -3,6 +3,14 @@
 
 :warning: The following links work only in Tor Browser. Download it from: https://www.torproject.org/download/
 
+## Markets 100% uptime!
+
+| Market | URL |
+| --- | --- |
+| Euphoria | [euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion) | 
+
+
+
 ## Catalogues
 
 
@@ -17,11 +25,6 @@
 | Tor Node | [tornode3tnrtzgqwd3vmxdumucddqfd6zk7icu4wzdwxo5c3zn2xqfqd.onion](http://tornode3tnrtzgqwd3vmxdumucddqfd6zk7icu4wzdwxo5c3zn2xqfqd.onion) |
 | Tor Links | [torlinkv7cft5zhegrokjrxj2st4hcimgidaxdmcmdpcrnwfxrr2zxqd.onion](http://torlinkv7cft5zhegrokjrxj2st4hcimgidaxdmcmdpcrnwfxrr2zxqd.onion) |
 
-## Markets 100% Work!
-
-| Market | URL |
-| --- | --- |
-| Euphoria | [euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion) | 
 
 ## Search engines
 
