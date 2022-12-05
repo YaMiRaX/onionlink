@@ -3,7 +3,7 @@
 
 :warning: The following links work only in Tor Browser. Download it from: https://www.torproject.org/download/
 
-## Markets 100% uptime ! Not scam !
+## Markets 100% uptime ! Not scam ! 
 
 | Market | URL |
 | --- | --- |
