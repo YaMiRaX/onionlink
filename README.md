@@ -9,7 +9,8 @@
 | --- | --- |
 | Euphoria | [euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion) | 
 | Have  ozempic 1 mg  | [Euphoria](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion) |
-| Have Remedium Saxenda 6mg | [Euphoria](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion)
+| Have Remedium Saxenda 6mg | [Euphoria](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion)|
+| Invaite code for Euphoria | srx0zig6be | dgfpfhq30n | vqbvsf4ala | dbw11a6jiz | t4t879dnl0 |dsnixylgeh | og6h148r5p | jjagd9lmra | 
 
 ## News
 
