@@ -10,14 +10,14 @@
 | Euphoria | [euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion) | 
 | Have  ozempic 1 mg  | [Euphoria](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion) |
 | Have Remedium Saxenda 6mg | [Euphoria](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion)|
-| Invaite code for Euphoria | srx0zig6be | 
-| Invaite code for Euphoria | dgfpfhq30n |
-| Invaite code for Euphoria | vqbvsf4ala | 
-| Invaite code for Euphoria | dbw11a6jiz | 
-| Invaite code for Euphoria | t4t879dnl0 |
-| Invaite code for Euphoria | dsnixylgeh | 
-| Invaite code for Euphoria | og6h148r5p | 
-| Invaite code for Euphoria | jjagd9lmra | 
+| Invite code for Euphoria | srx0zig6be | 
+| Invite code for Euphoria | dgfpfhq30n |
+| Invite code for Euphoria | vqbvsf4ala | 
+| Invite code for Euphoria | dbw11a6jiz | 
+| Invite code for Euphoria | t4t879dnl0 |
+| Invite code for Euphoria | dsnixylgeh | 
+| Invite code for Euphoria | og6h148r5p | 
+| Invite code for Euphoria | jjagd9lmra | 
 
 ## News
 
