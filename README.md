@@ -8,7 +8,7 @@
 | Market | URL |
 | --- | --- |
 | Euphoria | [euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion) | 
-| Have  ozempic 1 mg  | [Euphoria](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion) |
+| Have  ozempic 0.25mg, 0.5mg, 1mg  | [Euphoria](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion) |
 | Have Remedium Saxenda 6mg | [Euphoria](http://euphor2ivtwosiz6zspq7rdzzmyyo5nvr76qtgc473e2hnhffsred6qd.onion)|
 | Invite code for Euphoria | srx0zig6be | 
 | Invite code for Euphoria | dgfpfhq30n |
