@@ -71,6 +71,7 @@
 | --- | --- |
 | Hidden Wiki | [wiki2zkamfya6mnyvk4aom4yjyi2kwsz7et3e4wnikcrypqv63rsskid.onion](http://wiki2zkamfya6mnyvk4aom4yjyi2kwsz7et3e4wnikcrypqv63rsskid.onion) |
 | Bitcoin Wiki | [bitcoin.it](https://bitcoin.it) |
+| Trust Wiki| [wiki6dtqpuvwtc5hopuj33eeavwa6sik7sy57cor35chkx5nrbmmolqd.onion](http://wiki6dtqpuvwtc5hopuj33eeavwa6sik7sy57cor35chkx5nrbmmolqd.onion)|
 
 ## Bitcoin
 
